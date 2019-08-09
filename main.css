@@ -1,0 +1,14 @@
+#cards{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.card-body{
+  background-color: lightgray;
+}
+
+.card{
+  margin: 25px;
+}
